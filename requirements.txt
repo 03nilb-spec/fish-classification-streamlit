@@ -5,3 +5,5 @@ pandas
 Pillow
 scikit-learn
 matplotlib
+streamlit
+PIL
